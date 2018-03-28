@@ -5,3 +5,5 @@ Data Exploration,cleaning,modelling
 * https://towardsdatascience.com/step-by-step-guide-to-build-your-own-mini-imdb-database-fc39af27d21b
 
 * https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433
+
+* https://www.kaggle.com/rtatman/sql-scavenger-hunt-handbook/?utm_medium=blog&utm_source=medium&utm_campaign=fcc
